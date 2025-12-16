@@ -1,4 +1,16 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import { createRouter, createWebHistory } from 'vue-router'
 
-createApp(App).mount('#app')
+import App from './App.vue'
+import VariantSelector from './VariantSelector.vue'
+
+const router = createRouter({
+    history: createWebHistory(),
+    routes: [
+        { path: '/p/:bpCode', component: VariantSelector, props: true },
+    ]
+});
+
+const app = createApp(App);
+app.use(router);
+app.mount('#app')
