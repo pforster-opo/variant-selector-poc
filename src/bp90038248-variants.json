@@ -1,0 +1,720 @@
+{
+  "filters": [
+    {
+      "name": "Oberfläche",
+      "key": "oberflaeche[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "Edelstahlfinish",
+          "value": "Edelstahlfinish",
+          "selected": false
+        },
+        {
+          "displayedValue": "eloxiert",
+          "value": "eloxiert",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Länge",
+      "key": "laenge[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "1400",
+          "value": "1400.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "1600",
+          "value": "1600.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "1800",
+          "value": "1800.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "2000",
+          "value": "2000.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "2200",
+          "value": "2200.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "2500",
+          "value": "2500.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "3000",
+          "value": "3000.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "4000",
+          "value": "4000.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "6000",
+          "value": "6000.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Farbe",
+      "key": "farbe[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "farblos",
+          "value": "farblos",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "auf Mass",
+      "key": "auf_mass[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "auf Mass",
+          "value": "auf Mass",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "size": 500,
+    "totalElements": 14,
+    "totalPages": 1
+  },
+  "variants": [
+    {
+      "code": "6500844",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 10189, 1400 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Alu 1400mm",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10189",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "1'400 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 64.70 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 1
+    },
+    {
+      "code": "6500846",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 10190, 1600 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Alu 1600mm",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10190",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "1'600 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 74.50 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 2
+    },
+    {
+      "code": "6500848",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 10191, 1800 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Alu 1800mm",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10191",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "1'800 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 84.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 3
+    },
+    {
+      "code": "6500850",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 10192, 2000 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Alu 2000mm",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10192",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "2'000 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 92.80 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 4
+    },
+    {
+      "code": "6500852",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 10193, 2200 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Alu 2200mm",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10193",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "2'200 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 102.40 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 5
+    },
+    {
+      "code": "6500855",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 10194, 2500 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Aluminium, N",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10194",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "2'500 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 116.30 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 6
+    },
+    {
+      "code": "6500856",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 18532, 3000 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Aluminium, N",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "18532",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "3'000 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 139.60 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 7
+    },
+    {
+      "code": "6500857",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA-Junior 80 Aluminium, Nr. 18533, 4000 mm",
+      "shortName": "Laufschienen HAWA-Junior 80 Aluminium, N",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "18533",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "4'000 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 187.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 8
+    },
+    {
+      "code": "6500854",
+      "productType": "STANDARD",
+      "name": "Laufschienen Junior 80 HAWA 10186, Länge 6000mm",
+      "shortName": "Laufschienen Junior 80 HAWA 10186, Länge",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10186",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": "6'000 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 280.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 9
+    },
+    {
+      "code": "6500843",
+      "productType": "CONFIGURABLE",
+      "name": "Laufschiene HAWA-Junior 80 Alu, auf Mass",
+      "shortName": "Laufschiene HAWA-Junior 80 Alu, a.Mass",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "10188",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium farblos eloxiert"
+        },
+        {
+          "name": "Länge",
+          "value": " auf Mass mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "auf Anfrage",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 11
+    },
+    {
+      "code": "5610245",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA 22048 Alu edelstahleffekt, 2,5 m",
+      "shortName": "Laufschienen HAWA 22048 Alu edelstahleff",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "22048",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium Edelstahlfinish"
+        },
+        {
+          "name": "Länge",
+          "value": "2'500 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 156.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 21
+    },
+    {
+      "code": "5610246",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA 20005 Alu edelstahleffekt, 4,0 m",
+      "shortName": "Laufschienen HAWA 20005 Alu edelstahleff",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "20005",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium Edelstahlfinish"
+        },
+        {
+          "name": "Länge",
+          "value": "4'000 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 250.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 22
+    },
+    {
+      "code": "5610244",
+      "productType": "STANDARD",
+      "name": "Laufschienen HAWA 20004 Länge 6000mm",
+      "shortName": "Laufschienen HAWA 20004 Länge 6000mm",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "20004",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium Edelstahlfinish"
+        },
+        {
+          "name": "Länge",
+          "value": "6'000 mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "CHF 374.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 23
+    },
+    {
+      "code": "5610243",
+      "productType": "CONFIGURABLE",
+      "name": "Laufschiene HAWA Alu edelstahleffekt, auf Mass",
+      "shortName": "Laufschiene HAWA Alu ES-effekt, a.Mass",
+      "baseProductCode": "bp90038248",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "20006",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium Edelstahlfinish"
+        },
+        {
+          "name": "Länge",
+          "value": " auf Mass mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "34/40 mm"
+        }
+      ],
+      "priceString": "auf Anfrage",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 25
+    }
+  ]
+}

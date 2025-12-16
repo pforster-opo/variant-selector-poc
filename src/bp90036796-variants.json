@@ -1,0 +1,673 @@
+{
+  "filters": [
+    {
+      "name": "Benutzerkategorie",
+      "key": "benutzerkategorie[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "EN 1906 Klasse 3",
+          "value": "EN 1906 Klasse 3",
+          "selected": false
+        },
+        {
+          "displayedValue": "EN 1906 Klasse 4",
+          "value": "EN 1906 Klasse 4",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "4-kant",
+      "key": "4_kant[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "8 mm",
+          "value": "8 mm",
+          "selected": false
+        },
+        {
+          "displayedValue": "9 mm",
+          "value": "9 mm",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Türstärke",
+      "key": "tuerstaerke[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "35",
+          "value": "35.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "60",
+          "value": "60.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "85",
+          "value": "85.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Oberfläche",
+      "key": "oberflaeche[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "PVD-beschichtet",
+          "value": "PVD-beschichtet",
+          "selected": false
+        },
+        {
+          "displayedValue": "matt",
+          "value": "matt",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Lochteil/Paar",
+      "key": "lochteil_paar[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "Türdrücker-Lochteil",
+          "value": "Türdrücker-Lochteil",
+          "selected": false
+        },
+        {
+          "displayedValue": "Türdrückerpaar",
+          "value": "Türdrückerpaar",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Farbe",
+      "key": "farbe[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "Schwarz",
+          "value": "Schwarz",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "size": 500,
+    "totalElements": 10,
+    "totalPages": 1
+  },
+  "variants": [
+    {
+      "code": "6103401",
+      "productType": "STANDARD",
+      "name": "Türdrückerpaar GLUTZ 5071 Memp Edelstahl matt 16mm 130/8mm Türstärke max.60mm",
+      "shortName": "Türdrückerpaar GLUTZ 5071 Memp Edelstahl",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrückerpaar "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 3"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "8 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "35 - 60 mm"
+        }
+      ],
+      "priceString": "CHF 100.50 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 1
+    },
+    {
+      "code": "6103403",
+      "productType": "STANDARD",
+      "name": "Türdrückerlochteil GLUTZ 5071 Edelstahl matt 16mm 130/8mm",
+      "shortName": "Türdrückerlochteil GLUTZ 5071 Edelstahl",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrücker-Lochteil "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 3"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "8 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 56.60 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 3
+    },
+    {
+      "code": "6103405",
+      "productType": "STANDARD",
+      "name": "Türdrückerpaar GLUTZ 5071 Memp Edelstahl matt 16mm 130/8mm Türstärke max.85mm",
+      "shortName": "Türdrückerpaar GLUTZ 5071 Memp Edelstahl",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrückerpaar "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 3"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "8 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "60 - 85 mm"
+        }
+      ],
+      "priceString": "CHF 106.80 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 2
+    },
+    {
+      "code": "6103407",
+      "productType": "STANDARD",
+      "name": "Türdrückerpaar GLUTZ 5071 Edelstahl PVD schwarz, Ansatz 16mm, Vierkant 8x84mm, Türstärke max. 60mm",
+      "shortName": "Türdrückerpaar 5071 PVD schwarz 8x84mm",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrückerpaar "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": "Schwarz PVD-beschichtet"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 3"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "8 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "35 - 60 mm"
+        }
+      ],
+      "priceString": "CHF 255.00 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6103408",
+      "productType": "STANDARD",
+      "name": "Türdrückerlochteil GLUTZ 5071 schwarz PVD 16mm 130/8mm",
+      "shortName": "Türdrückerlochteil GLUTZ 5071 schwarz8mm",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrücker-Lochteil "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": "Schwarz PVD-beschichtet"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 3"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "8 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 123.50 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6103471",
+      "productType": "STANDARD",
+      "name": "Türdrückerpaar GLUTZ 5071 Edelstahl matt 16mm 130/9mm Türstärke max.60mm",
+      "shortName": "Türdrückerpaar GLUTZ 5071 Edelstahl matt",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrückerpaar "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 4"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "9 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "35 - 60 mm"
+        }
+      ],
+      "priceString": "CHF 116.70 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 4
+    },
+    {
+      "code": "6103473",
+      "productType": "STANDARD",
+      "name": "Türdrückerlochteil GLUTZ 5071 Edelstahl matt 16mm 130/9mm",
+      "shortName": "Türdrückerlochteil GLUTZ 5071 Edelstahl",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrücker-Lochteil "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 4"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "9 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 56.60 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 6
+    },
+    {
+      "code": "6103475",
+      "productType": "STANDARD",
+      "name": "Türdrückerpaar GLUTZ 5071 Edelstahl matt 16mm 130/9mm Türstärke max.85mm",
+      "shortName": "Türdrückerpaar GLUTZ 5071 Edelstahl matt",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrückerpaar "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 4"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "9 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "60 - 85 mm"
+        }
+      ],
+      "priceString": "CHF 119.90 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 5
+    },
+    {
+      "code": "6103477",
+      "productType": "STANDARD",
+      "name": "Türdrückerpaar GLUTZ 5071 Edelstahl PVD schwarz, Ansazt 16mm, Vierkant 9x109mm, Türstärke max. 85mm",
+      "shortName": "Türdrückerpaar 5071 PVD schwarz 9x109mm",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrückerpaar "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": "Schwarz PVD-beschichtet"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 4"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "9 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "60 - 85 mm"
+        }
+      ],
+      "priceString": "CHF 255.00 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6103478",
+      "productType": "STANDARD",
+      "name": "Türdrückerlochteil GLUTZ 5071 schwarz PVD 16mm 130/9mm",
+      "shortName": "Türdrückerlochteil GLUTZ 5071 schwarz9mm",
+      "baseProductCode": "bp90036796",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Ausführung",
+          "value": "Türdrücker-Lochteil "
+        },
+        {
+          "name": "Farbe/Oberfläche",
+          "value": "Schwarz PVD-beschichtet"
+        },
+        {
+          "name": "Benutzerkategorie",
+          "value": "EN 1906 Klasse 4"
+        },
+        {
+          "name": "Ausladung",
+          "value": "55 mm"
+        },
+        {
+          "name": "4-kant",
+          "value": "9 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 123.50 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    }
+  ]
+}

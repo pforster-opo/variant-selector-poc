@@ -1,0 +1,263 @@
+{
+  "filters": [
+    {
+      "name": "Schnittkante",
+      "key": "schnittkante[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "mattiert",
+          "value": "mattiert",
+          "selected": false
+        },
+        {
+          "displayedValue": "schwarz eingefärbt",
+          "value": "schwarz eingefärbt",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Farbe",
+      "key": "farbe[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "Edelstahlfinish",
+          "value": "Edelstahlfinish",
+          "selected": false
+        },
+        {
+          "displayedValue": "Schwarz",
+          "value": "Schwarz",
+          "selected": false
+        },
+        {
+          "displayedValue": "nickelfarbig",
+          "value": "nickelfarbig",
+          "selected": false
+        },
+        {
+          "displayedValue": "silberfarbig",
+          "value": "silberfarbig",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "size": 500,
+    "totalElements": 4,
+    "totalPages": 1
+  },
+  "variants": [
+    {
+      "code": "4227961",
+      "productType": "CONFIGURABLE",
+      "name": "Griffleistenprofile Malia 35mm, auf Mass, Alu silberfarbig eloxiert",
+      "shortName": "Griffleistenprofile Malia auf Mass SI",
+      "baseProductCode": "bp4227900",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "BY_REQUEST",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium silberfarbig eloxiert"
+        },
+        {
+          "name": "Schnittkante",
+          "value": "mattiert"
+        },
+        {
+          "name": "Länge",
+          "value": " auf Mass mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "-/35 mm"
+        },
+        {
+          "name": "Materialstärke",
+          "value": "19 mm"
+        }
+      ],
+      "priceString": "auf Anfrage",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4227963",
+      "productType": "CONFIGURABLE",
+      "name": "Griffleistenprofile Malia 35mm, auf Mass, Alu edelstahlfarbig gebürstet",
+      "shortName": "Griffleistenprofile Malia auf Mass ES",
+      "baseProductCode": "bp4227900",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "BY_REQUEST",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium Edelstahlfinish eloxiert"
+        },
+        {
+          "name": "Schnittkante",
+          "value": "mattiert"
+        },
+        {
+          "name": "Länge",
+          "value": " auf Mass mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "-/35 mm"
+        },
+        {
+          "name": "Materialstärke",
+          "value": "19 mm"
+        }
+      ],
+      "priceString": "auf Anfrage",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4227965",
+      "productType": "CONFIGURABLE",
+      "name": "Griffleistenprofile Malia 35mm, auf Mass, Alu nickelfarbig eloxiert",
+      "shortName": "Griffleistenprofile Malia auf Mass NI",
+      "baseProductCode": "bp4227900",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "BY_REQUEST",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium nickelfarbig eloxiert"
+        },
+        {
+          "name": "Schnittkante",
+          "value": "mattiert"
+        },
+        {
+          "name": "Länge",
+          "value": " auf Mass mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "-/35 mm"
+        },
+        {
+          "name": "Materialstärke",
+          "value": "19 mm"
+        }
+      ],
+      "priceString": "auf Anfrage",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4227967",
+      "productType": "CONFIGURABLE",
+      "name": "Griffleistenprofile Malia 35mm, auf Mass, Alu schwarz eloxiert, Schnittkanten eingefärbt",
+      "shortName": "Griffleistenprofile Malia auf Mass S",
+      "baseProductCode": "bp4227900",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "BY_REQUEST",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Aluminium Schwarz eloxiert"
+        },
+        {
+          "name": "Schnittkante",
+          "value": "schwarz eingefärbt"
+        },
+        {
+          "name": "Länge",
+          "value": " auf Mass mm"
+        },
+        {
+          "name": "Profil B/H",
+          "value": "-/35 mm"
+        },
+        {
+          "name": "Materialstärke",
+          "value": "19 mm"
+        }
+      ],
+      "priceString": "auf Anfrage",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    }
+  ]
+}

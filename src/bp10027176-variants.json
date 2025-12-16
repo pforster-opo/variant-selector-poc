@@ -1,0 +1,862 @@
+{
+  "filters": [
+    {
+      "name": "Anschlag",
+      "key": "anschlag[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "DIN links",
+          "value": "DIN links",
+          "selected": false
+        },
+        {
+          "displayedValue": "DIN links/rechts",
+          "value": "DIN links/rechts",
+          "selected": false
+        },
+        {
+          "displayedValue": "DIN rechts",
+          "value": "DIN rechts",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Dornmass",
+      "key": "dornmass[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "65",
+          "value": "65.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "80",
+          "value": "80.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "100",
+          "value": "100.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Stulpform",
+      "key": "stulpform[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "Flachstulp rund",
+          "value": "Flachstulp rund",
+          "selected": false
+        },
+        {
+          "displayedValue": "Lappenstulp",
+          "value": "Lappenstulp",
+          "selected": false
+        },
+        {
+          "displayedValue": "Winkelstulp rund",
+          "value": "Winkelstulp rund",
+          "selected": false
+        },
+        {
+          "displayedValue": "rund",
+          "value": "rund",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "size": 500,
+    "totalElements": 15,
+    "totalPages": 1
+  },
+  "variants": [
+    {
+      "code": "6231501",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 65mm, N 9mm, DIN li/re, Rundstulp Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/65-78/230x20r-Flach/9",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408001",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links/rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "65 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Flachstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231502",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 65mm, N 9mm, DIN li, Lappen rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/65-78/230x20r-Lap/9, D li",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408002",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links"
+        },
+        {
+          "name": "Dornmass",
+          "value": "65 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Lappenstulp/rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231503",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 65mm, N 9mm, DIN re, Lappen rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/65-78/230x20r-Lap/9, D re",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408003",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "65 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Lappenstulp/rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231504",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 65mm, N 9mm, DIN li, Winkel rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/65-78/230x20r-Win/9, D li",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408004",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links"
+        },
+        {
+          "name": "Dornmass",
+          "value": "65 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Winkelstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231505",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 65mm, N 9mm, DIN re, Winkel rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/65-78/230x20r-Win/9, D re",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408005",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "65 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Winkelstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231506",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 80mm, N 9mm, DIN li/re, Rundstulp Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/80-78/230x20r-Flach/9",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408006",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links/rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "80 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Flachstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231507",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 80mm, N 9mm, DIN li, Lappen rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/80-78/230x20r-Lap/9, D li",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408007",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links"
+        },
+        {
+          "name": "Dornmass",
+          "value": "80 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Lappenstulp/rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231508",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 80mm, N 9mm, DIN re, Lappen rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/80-78/230x20r-Lap/9, D re",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408008",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "80 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Lappenstulp/rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231509",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 80mm, N 9mm, DIN li, Winkel rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/80-78/230x20r-Win/9, D li",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408009",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links"
+        },
+        {
+          "name": "Dornmass",
+          "value": "80 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Winkelstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231510",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 80mm, N 9mm, DIN re, Winkel rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/80-78/230x20r-Win/9, D re",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408010",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "80 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Winkelstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231511",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 100mm, N 9mm, DIN li/re, Rundstulp Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/100-78/230x20r-Flach/9",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408011",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links/rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "100 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Flachstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231512",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 100mm, N 9mm, DIN li, Lappen rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/100-78/230x20r-Lap/9, D l",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408012",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links"
+        },
+        {
+          "name": "Dornmass",
+          "value": "100 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Lappenstulp/rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231513",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 100mm, N 9mm, DIN re, Lappen rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/100-78/230x20r-Lap/9, D r",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408013",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "100 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Lappenstulp/rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231514",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 100mm, N 9mm, DIN li, Winkel rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/100-78/230x20r-Win/9, D l",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408014",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN links"
+        },
+        {
+          "name": "Dornmass",
+          "value": "100 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Winkelstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6231515",
+      "productType": "STANDARD",
+      "name": "Panik-Standflügelverriegelung MSL 50590, Gew. M6, Dm 100mm, N 9mm, DIN re, Winkel rund Inox 20/230mm",
+      "shortName": "MSL 50590.0/M6/100-78/230x20r-Win/9, D r",
+      "baseProductCode": "bp10027176",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": "promoLabelNeuheit",
+      "manufacturerArticleNumber": "11408015",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Anschlag",
+          "value": "DIN rechts"
+        },
+        {
+          "name": "Dornmass",
+          "value": "100 mm"
+        },
+        {
+          "name": "Nuss",
+          "value": "9 mm"
+        },
+        {
+          "name": "Stulp L/B/S",
+          "value": "Winkelstulp rund 230/20/3 mm"
+        },
+        {
+          "name": "für Stangen",
+          "value": "M 6"
+        }
+      ],
+      "priceString": "CHF 357.00 / 1 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    }
+  ]
+}

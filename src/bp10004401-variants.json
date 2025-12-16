@@ -1,0 +1,2356 @@
+{
+  "filters": [
+    {
+      "name": "ø",
+      "key": "o[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "8",
+          "value": "8.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "10",
+          "value": "10.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Länge",
+      "key": "laenge[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "80",
+          "value": "80.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "100",
+          "value": "100.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "120",
+          "value": "120.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "140",
+          "value": "140.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "160",
+          "value": "160.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "180",
+          "value": "180.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "200",
+          "value": "200.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "220",
+          "value": "220.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "240",
+          "value": "240.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "260",
+          "value": "260.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "280",
+          "value": "280.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "300",
+          "value": "300.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "320",
+          "value": "320.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "340",
+          "value": "340.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "360",
+          "value": "360.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "380",
+          "value": "380.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "400",
+          "value": "400.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "450",
+          "value": "450.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Gewindelänge",
+      "key": "gewindelaenge[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "47",
+          "value": "47.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "50",
+          "value": "50.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "57",
+          "value": "57.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "60",
+          "value": "60.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "70",
+          "value": "70.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "80",
+          "value": "80.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Kopf ø",
+      "key": "kopf_o[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "15.1",
+          "value": "15.1",
+          "selected": false
+        },
+        {
+          "displayedValue": "18.6",
+          "value": "18.6",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Antrieb",
+      "key": "antrieb[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "TX 40",
+          "value": "TX 40",
+          "selected": false
+        },
+        {
+          "displayedValue": "TX 50",
+          "value": "TX 50",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "size": 500,
+    "totalElements": 36,
+    "totalPages": 1
+  },
+  "variants": [
+    {
+      "code": "851708080",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 80 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "47 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 38.50 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 1
+    },
+    {
+      "code": "8517080100",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 100 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "100 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "57 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 45.90 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 2
+    },
+    {
+      "code": "8517080120",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 120 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "120 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "70 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 50.40 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 3
+    },
+    {
+      "code": "8517080140",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 140 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "140 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 57.50 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 4
+    },
+    {
+      "code": "8517080160",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 160 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "160 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 74.40 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 5
+    },
+    {
+      "code": "8517080180",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 180 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "180 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 87.20 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 6
+    },
+    {
+      "code": "8517080200",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 200 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "200 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 108.20 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 7
+    },
+    {
+      "code": "8517080220",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 220 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "220 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 119.10 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 8
+    },
+    {
+      "code": "8517080240",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 240 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "240 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 140.50 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 9
+    },
+    {
+      "code": "8517080260",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 260 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "260 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 162.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 10
+    },
+    {
+      "code": "8517080280",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 280 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "280 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 180.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 11
+    },
+    {
+      "code": "8517080300",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 300 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "300 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 205.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 12
+    },
+    {
+      "code": "8517080320",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 320 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "320 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 214.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 13
+    },
+    {
+      "code": "8517080340",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 340 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "340 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 233.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 14
+    },
+    {
+      "code": "8517080360",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 360 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "360 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 253.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 15
+    },
+    {
+      "code": "8517080380",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 380 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "380 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 264.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 16
+    },
+    {
+      "code": "8517080400",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 400 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "400 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 277.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 17
+    },
+    {
+      "code": "8517080450",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 8 x 450 mm Wirox beschichtet TX 40 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "8 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "450 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "15.1 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 40"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 368.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 18
+    },
+    {
+      "code": "851701080",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 80 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "50 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 62.70 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 19
+    },
+    {
+      "code": "8517010100",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 100 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "100 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "60 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 68.50 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 20
+    },
+    {
+      "code": "8517010120",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 120 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "120 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "70 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 83.80 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 21
+    },
+    {
+      "code": "8517010140",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 140 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "140 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 93.50 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 22
+    },
+    {
+      "code": "8517010160",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 160 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "160 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 114.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 23
+    },
+    {
+      "code": "8517010180",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 180 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "180 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 126.70 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 24
+    },
+    {
+      "code": "8517010200",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 200 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "200 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 163.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 25
+    },
+    {
+      "code": "8517010220",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 220 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "220 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 179.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 26
+    },
+    {
+      "code": "8517010240",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 240 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "240 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 212.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 27
+    },
+    {
+      "code": "8517010260",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 260 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "260 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 224.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 28
+    },
+    {
+      "code": "8517010280",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 280 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "280 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 242.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 29
+    },
+    {
+      "code": "8517010300",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 300 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "300 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 275.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 30
+    },
+    {
+      "code": "8517010320",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 320 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "320 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 297.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 31
+    },
+    {
+      "code": "8517010340",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 340 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "340 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 313.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 32
+    },
+    {
+      "code": "8517010360",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 360 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "360 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 354.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 33
+    },
+    {
+      "code": "8517010380",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 380 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "380 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 390.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 34
+    },
+    {
+      "code": "8517010400",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 400 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "400 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 396.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 35
+    },
+    {
+      "code": "8517010450",
+      "productType": "STANDARD",
+      "name": "Holzbauschrauben SPAX SK, 10 x 450 mm Wirox beschichtet TX 50 Pack à 50 St",
+      "shortName": "Holzbauschrauben SPAX SK, Wirox",
+      "baseProductCode": "bp10004401",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 50.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Material/Oberfläche",
+          "value": "Stahl WIROX®-beschichtet"
+        },
+        {
+          "name": "ø",
+          "value": "10 mm"
+        },
+        {
+          "name": "Länge",
+          "value": "450 mm"
+        },
+        {
+          "name": "Gewindelänge",
+          "value": "80 mm"
+        },
+        {
+          "name": "Kopf ø",
+          "value": "18.6 mm"
+        },
+        {
+          "name": "Antrieb",
+          "value": "TX 50"
+        },
+        {
+          "name": "Packung",
+          "value": "50"
+        }
+      ],
+      "priceString": "CHF 445.00 / 100 Stück",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": 36
+    }
+  ]
+}

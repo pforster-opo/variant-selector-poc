@@ -1,0 +1,322 @@
+{
+  "filters": [
+    {
+      "name": "Zylinderüberstand",
+      "key": "zylinderueberstand[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "7",
+          "value": "7.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "9",
+          "value": "9.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "12",
+          "value": "12.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "16",
+          "value": "16.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "21",
+          "value": "21.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Schutzeinsatz",
+      "key": "schutzeinsatz[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "mit Panzerung",
+          "value": "mit Panzerung",
+          "selected": false
+        },
+        {
+          "displayedValue": "ohne",
+          "value": "ohne",
+          "selected": false
+        },
+        {
+          "displayedValue": "vorgerichtet",
+          "value": "vorgerichtet",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Lochung",
+      "key": "lochung[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "PZ",
+          "value": "PZ",
+          "selected": false
+        },
+        {
+          "displayedValue": "RZ",
+          "value": "RZ",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "size": 500,
+    "totalElements": 5,
+    "totalPages": 1
+  },
+  "variants": [
+    {
+      "code": "6113910",
+      "productType": "STANDARD",
+      "name": "Zylinderschutzros.GLUTZ 5330S Edelstahl matt - RZ 53/12mm mit Zylinderabdeckung 9-16mm",
+      "shortName": "Zylinderschutzros.GLUTZ 5330S Edelstahl",
+      "baseProductCode": "bp90036969",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "9 - 16 mm"
+        },
+        {
+          "name": "Führung/Lochung",
+          "value": "RZ"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "mit Panzerung"
+        }
+      ],
+      "priceString": "CHF 93.70 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6113911",
+      "productType": "STANDARD",
+      "name": "Zylinderschutzros.GLUTZ 5330S Edelstahl matt - RZ 53/12mm vorg.f. Zylinderschutzeins.",
+      "shortName": "Zylinderschutzros.GLUTZ 5330S Edelstahl",
+      "baseProductCode": "bp90036969",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "7 - 21 mm"
+        },
+        {
+          "name": "Führung/Lochung",
+          "value": "RZ"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "vorgerichtet"
+        }
+      ],
+      "priceString": "CHF 53.00 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6113912",
+      "productType": "STANDARD",
+      "name": "Zylinderschutzros.GLUTZ 5330S Edelstahl matt - RZ 53/12mm",
+      "shortName": "Zylinderschutzros.GLUTZ 5330S RZ",
+      "baseProductCode": "bp90036969",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "12 mm"
+        },
+        {
+          "name": "Führung/Lochung",
+          "value": "RZ"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "ohne"
+        }
+      ],
+      "priceString": "CHF 53.00 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6113915",
+      "productType": "STANDARD",
+      "name": "Zylinderschutzros.GLUTZ 5330S Edelstahl matt - PZ 53/12mm mit Zylinderabdeckung 9-16mm",
+      "shortName": "Zylinderschutzros.GLUTZ 5330S Edelstahl",
+      "baseProductCode": "bp90036969",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "16 - 9 mm"
+        },
+        {
+          "name": "Führung/Lochung",
+          "value": "PZ"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "mit Panzerung"
+        }
+      ],
+      "priceString": "CHF 93.70 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6113916",
+      "productType": "STANDARD",
+      "name": "Zylinderschutzros.GLUTZ 5330S Edelstahl matt - PZ 53/12mm",
+      "shortName": "Zylinderschutzros.GLUTZ 5330S Edelstahl",
+      "baseProductCode": "bp90036969",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": null,
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "12 mm"
+        },
+        {
+          "name": "Führung/Lochung",
+          "value": "PZ"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "ohne"
+        }
+      ],
+      "priceString": "CHF 53.00 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    }
+  ]
+}
