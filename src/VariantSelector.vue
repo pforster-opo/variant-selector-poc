@@ -11,7 +11,7 @@ import bp10027176Response from './bp10027176-variants.json'
 const props = defineProps({
     bpCode: String
 });
-console.log(props.bpCode);
+
 var variantsResponse = bp90036796Response;
 if (props.bpCode == "bp10004401") { 
     variantsResponse = bp10004401Response;
@@ -259,6 +259,7 @@ function selectArticle(filters, article) {
 </script>
 
 <template>
+  <h1>Base Product: <a :href="'https://www.opo.ch/de/p/'+ props.bpCode" target="_blank">{{ props.bpCode }}</a></h1>
   <h2>Settings</h2>
   <div><button @click="selectFirstArticle(filters, articles)">Select First Article</button></div>
   <div>
