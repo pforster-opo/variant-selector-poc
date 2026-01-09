@@ -157,6 +157,7 @@ variantsResponse.variants.forEach((variant) => {
 /** END USE VARIANTS AS SOURCE */
 
 var useAutomaticConflictResolver = ref(true);
+var showVariantTable = ref(true);
 
 Object.values(attributeMap).forEach((filter) => {
     if(filter.count != articles.length) {
@@ -266,6 +267,10 @@ function selectArticle(filters, article) {
     <label for="useAutomaticConflictResolver">Enable automatic conflict resolver</label>
     <input name="useAutomaticConflictResolver" type="checkbox" v-model="useAutomaticConflictResolver" />
   </div>
+  <div>
+    <label for="showVariantTable">Show variant table</label>
+    <input name="showVariantTable" type="checkbox" v-model="showVariantTable" />
+  </div>
   <h2>Filter</h2>
   <div class="filter" v-for="filter in filters">
     <p><b>{{filter.label}}</b></p>
@@ -273,7 +278,12 @@ function selectArticle(filters, article) {
     <button  @click="resetFilter(filter)" v-if="!useAutomaticConflictResolver">RESET</button>
   </div>
   <h2>Selected Variant(s)</h2>
-  <table>
+  <div v-if="!showVariantTable">
+    <div v-for="article in articles">
+        <p v-if="article.selected">{{article.code}} - {{article.name}}</p>
+    </div>
+  </div>
+  <table v-if="showVariantTable">
     <thead>
         <tr>
             <th>Article</th>
