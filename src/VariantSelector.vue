@@ -116,7 +116,8 @@ variantsResponse.variants.forEach((variant) => {
         if(attributeMap[feature.name].values.filter((value) => value.label == val).length == 0) {
             const value = {
                 label: val,
-                selected: false
+                selected: false,
+                combinable: true
             };
             attributeMap[feature.name].values.push(value);
         }
@@ -173,10 +174,7 @@ const filters = ref(Object.values(attributeMap).filter((attribute) => {
     return !(attribute.count == articles.length && attribute.values.length == 1);
 }));
 
-const clickedFilters = [];
-
 function applyFilter(selectedFilter, selectedValue) {
-    clickedFilters.push(selectedFilter);
     selectedFilter.values.forEach((value) => {
         value.selected = value.label == selectedValue.label;
     });
@@ -186,6 +184,7 @@ function applyFilter(selectedFilter, selectedValue) {
     if(useAutomaticConflictResolver.value && !matchingArticle) {
         resolveConflicts(filters, selectedFilter);
     }
+    markNonCombinableValues(filters.value);
 }
 
 function resetFilter(filter) {
@@ -193,6 +192,7 @@ function resetFilter(filter) {
         value.selected = false;
     });
     filterArticles(filters);
+    markNonCombinableValues(filters.value);
 }
 
 function resolveConflicts(filters, selectedFilter) {
@@ -223,8 +223,24 @@ function resolveConflicts(filters, selectedFilter) {
     });
 }
 
+function markNonCombinableValues(filters) { 
+    for (var i = 0; i < filters.length; i++) { 
+        var filtersToCheck = JSON.parse(JSON.stringify(filters))
+        filtersToCheck[i].values.forEach((value) => {
+            value.selected = false;
+        });
+        var articlesToCheck = JSON.parse(JSON.stringify(articles))
+        filterArticles(filtersToCheck, articlesToCheck);
+        var filterKey = filtersToCheck[i].key;
+        var combinableValues = articlesToCheck.filter((article) => article.selected).map((article) => article.features[filterKey].values).flat();
+        filters[i].values.forEach((filterValue) => {
+            filterValue.combinable = combinableValues.indexOf(filterValue.label) >= 0;
+        });
+    }
+}
+
 function filterArticles(filters, inputArticles) {
-    const articleList = articles ? articles : inputArticles;
+    const articleList = inputArticles ? inputArticles : articles;
     articleList.forEach((article) => {
         var matchingArticle = true;
         const filterList = filters.value ? filters.value : filters;
@@ -245,6 +261,7 @@ function selectFirstArticle(filters, articles) {
 
     const firstArticle = selectedArticles[0] ? selectedArticles[0] : articles[0];
     selectArticle(filters, firstArticle);
+    markNonCombinableValues(filters);
 }
 
 function selectArticle(filters, article) {
@@ -274,7 +291,7 @@ function selectArticle(filters, article) {
   <h2>Filter</h2>
   <div class="filter" v-for="filter in filters">
     <p><b>{{filter.label}}</b></p>
-    <div class="filter-value" :class="{ selected: value.selected }" v-for="value in filter.values" @click="applyFilter(filter, value)">{{value.label}}</div>
+    <div class="filter-value" :class="{ selected: value.selected, nonCombinable: !value.combinable }" v-for="value in filter.values" @click="applyFilter(filter, value)">{{value.label}}</div>
     <button  @click="resetFilter(filter)" v-if="!useAutomaticConflictResolver">RESET</button>
   </div>
   <h2>Selected Variant(s)</h2>
@@ -312,6 +329,9 @@ function selectArticle(filters, article) {
 
 .filter-value.selected {
     background-color: red;
+}
+.filter-value.nonCombinable {
+    border: 1px dashed gray;
 }
 
 .article.selected {
