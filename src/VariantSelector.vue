@@ -274,6 +274,7 @@ function selectArticle(filters, article) {
     filterArticles(filters, articles);
 }
 
+selectFirstArticle(filters.value, articles);
 </script>
 
 <template>
@@ -321,9 +322,9 @@ function selectArticle(filters, article) {
 <style scoped>
 .filter-value {
     display: inline-block;
-    padding: 5px;
+    padding: 7px 10px;
     border: 1px solid gray;
-    border-radius: 15px;
+    border-radius: 17px;
     margin-right: 5px;
     cursor: pointer;
 }
