@@ -288,7 +288,7 @@ function selectArticle(filters, article) {
     <label for="showVariantTable">Show variant table</label>
     <input name="showVariantTable" type="checkbox" v-model="showVariantTable" />
   </div>
-  <h2>Filter</h2>
+  <h2>Select Variant</h2>
   <div class="filter" v-for="filter in filters">
     <p><b>{{filter.label}}</b></p>
     <div class="filter-value" :class="{ selected: value.selected, nonCombinable: !value.combinable }" v-for="value in filter.values" @click="applyFilter(filter, value)">{{value.label}}</div>
@@ -323,12 +323,13 @@ function selectArticle(filters, article) {
     display: inline-block;
     padding: 5px;
     border: 1px solid gray;
+    border-radius: 15px;
     margin-right: 5px;
     cursor: pointer;
 }
 
 .filter-value.selected {
-    background-color: red;
+    border: 2px solid black;
 }
 .filter-value.nonCombinable {
     border: 1px dashed gray;
