@@ -12,6 +12,7 @@
     <li><a href="/p/bp90036796">bp90036796 - combined attribute Farbe/Oberfläche</a></li>
     <li><a href="/p/bp90036969">bp90036969 - range attribute Zylinderüberstand</a></li>
     <li><a href="/p/bp10027176">bp10027176 - multi-value attribute Anschlag and combined attribute Stulp L/B/S</a></li>
+    <li><a href="/p/custom">custom</a></li>
   </ul>
   <div>
     <router-view></router-view>

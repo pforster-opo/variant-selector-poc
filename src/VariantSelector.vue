@@ -7,6 +7,7 @@ import bp90038248Response from './bp90038248-variants.json'
 import bp90036796Response from './bp90036796-variants.json'
 import bp90036969Response from './bp90036969-variants.json'
 import bp10027176Response from './bp10027176-variants.json'
+import customResponse from './custom-variants.json'
 
 const props = defineProps({
     bpCode: String
@@ -30,6 +31,9 @@ if (props.bpCode == "bp90036969") {
 }
 if (props.bpCode == "bp10027176") { 
     variantsResponse = bp10027176Response;
+}
+if (props.bpCode == "custom") { 
+    variantsResponse = customResponse;
 }
 
 
@@ -278,7 +282,7 @@ selectFirstArticle(filters.value, articles);
 </script>
 
 <template>
-  <h1>Base Product: <a :href="'https://www.opo.ch/de/p/'+ props.bpCode" target="_blank">{{ props.bpCode }}</a></h1>
+  <p>Selected Base Product: <a :href="'https://www.opo.ch/de/p/'+ props.bpCode" target="_blank">{{ props.bpCode }}</a></p>
   <h2>Settings</h2>
   <div><button @click="selectFirstArticle(filters, articles)">Select First Article</button></div>
   <div>

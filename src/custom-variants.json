@@ -1,0 +1,1428 @@
+{
+  "filters": [
+    {
+      "name": "Türstärke",
+      "key": "tuerstaerke[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "57",
+          "value": "57.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "62",
+          "value": "62.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Schutzeinsatz",
+      "key": "schutzeinsatz[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "fix montiert",
+          "value": "fix montiert",
+          "selected": false
+        },
+        {
+          "displayedValue": "ohne",
+          "value": "ohne",
+          "selected": false
+        },
+        {
+          "displayedValue": "vorgerichtet",
+          "value": "vorgerichtet",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Zylinderüberstand",
+      "key": "zylinderueberstand[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "8",
+          "value": "8.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "10",
+          "value": "10.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "12",
+          "value": "12.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "14",
+          "value": "14.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "16",
+          "value": "16.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "18",
+          "value": "18.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "20",
+          "value": "20.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "22",
+          "value": "22.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "24",
+          "value": "24.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "26",
+          "value": "26.0",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Oberfläche",
+      "key": "oberflaeche[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "matt",
+          "value": "matt",
+          "selected": false
+        },
+        {
+          "displayedValue": "satiniert",
+          "value": "satiniert",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Lochung",
+      "key": "lochung[opoClassification;Online]_string",
+      "unit": "EMPTY_UNIT",
+      "filterValues": [
+        {
+          "displayedValue": "PZ",
+          "value": "PZ",
+          "selected": false
+        },
+        {
+          "displayedValue": "RZ",
+          "value": "RZ",
+          "selected": false
+        }
+      ]
+    },
+    {
+      "name": "Distanz",
+      "key": "distanz[opoClassification;Online]_double",
+      "unit": "mm",
+      "filterValues": [
+        {
+          "displayedValue": "74",
+          "value": "74.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "78",
+          "value": "78.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "92",
+          "value": "92.0",
+          "selected": false
+        },
+        {
+          "displayedValue": "94",
+          "value": "94.0",
+          "selected": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "size": 500,
+    "totalElements": 21,
+    "totalPages": 1
+  },
+  "variants": [
+    {
+      "code": "4046992",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/10 RZ78",
+      "shortName": "73.E3331E/3310/10 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/10 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "10 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4046993",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/12 RZ78",
+      "shortName": "73.E3331E/3310/12 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/12 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "12 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4046994",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/14 RZ78",
+      "shortName": "73.E3331E/3310/14 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/14 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "14 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4046995",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/16 RZ78",
+      "shortName": "73.E3331E/3310/16 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/16 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "16 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4046996",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/18 RZ78",
+      "shortName": "73.E3331E/3310/18 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/18 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "18 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4046997",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/20 RZ78",
+      "shortName": "73.E3331E/3310/20 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/20 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "20 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4046998",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/22 RZ78",
+      "shortName": "73.E3331E/3310/22 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/22 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "22 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4046999",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/24 RZ78",
+      "shortName": "73.E3331E/3310/24 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/24 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "24 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047000",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/26 RZ78",
+      "shortName": "73.E3331E/3310/26 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/26 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "26 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047003",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/12 PZ78",
+      "shortName": "73.E3331E/3310/12 PZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/12 PZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "12 mm"
+        }
+      ],
+      "priceString": "CHF 149.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047004",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/14 PZ78",
+      "shortName": "73.E3331E/3310/14 PZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/14 PZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "14 mm"
+        }
+      ],
+      "priceString": "CHF 149.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047005",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/16 PZ78",
+      "shortName": "73.E3331E/3310/16 PZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/16 PZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "16 mm"
+        }
+      ],
+      "priceString": "CHF 149.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047006",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/18 PZ78",
+      "shortName": "73.E3331E/3310/18 PZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/18 PZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "18 mm"
+        }
+      ],
+      "priceString": "CHF 149.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047007",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/20 PZ78",
+      "shortName": "73.E3331E/3310/20 PZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/20 PZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "20 mm"
+        }
+      ],
+      "priceString": "CHF 149.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047071",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/08 RZ78",
+      "shortName": "73.E3331E/3310/08 RZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/08 RZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "8 mm"
+        }
+      ],
+      "priceString": "CHF 145.30 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047075",
+      "productType": "STANDARD",
+      "name": "Schutzschilder HAGER Art. 73.E3331E/3310/08 PZ78",
+      "shortName": "73.E3331E/3310/08 PZ78 Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "73.E3331E/3310/08 PZ78",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "fix montiert"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": "8 mm"
+        }
+      ],
+      "priceString": "CHF 149.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4047476",
+      "productType": "STANDARD",
+      "name": "Schutzschilder ohne Einsatzrosette HAGER Art. 73.E3331E/3310 RZ74 A/I",
+      "shortName": "73.E3331E/3310 RZ74 A/I Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "3936200",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 74 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "ohne"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 126.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4050478",
+      "productType": "STANDARD",
+      "name": "Schutzschilder ohne Einsatzrosette HAGER Art. 73.E3331E/3310 RZ94 A/I",
+      "shortName": "73.E3331E/3310 RZ94 A/I Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "3936285",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 94 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "ohne"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 126.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "4050479",
+      "productType": "STANDARD",
+      "name": "Schutzschilder ohne Einsatzrosette HAGER Art. 73.E3331E/3310 PZ92 A/I",
+      "shortName": "73.E3331E/3310 PZ92 A/I Schutzschilder",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "NOT_ON_STOCK",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "3936189",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " satiniert"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 92 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "ohne"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 126.10 / 1 Paar",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6156301",
+      "productType": "STANDARD",
+      "name": "Schutztürschilder HOPPE Edelst.matt RZ78mm 250/54/12mm",
+      "shortName": "Schutztürschilder HOPPE Edelst.matt RZ78",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "3936242",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "RZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "vorgerichtet"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 118.80 / 1 Garnitur",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    },
+    {
+      "code": "6156302",
+      "productType": "STANDARD",
+      "name": "Schutztürschilder HOPPE Edelst.matt PZ78mm 250/54/12mm",
+      "shortName": "Schutztürschilder HOPPE Edelst.matt PZ78",
+      "baseProductCode": "bp90003160",
+      "inCart": false,
+      "pinned": false,
+      "availabilityStatus": "FULLY_AVAILABLE",
+      "minimumOrderQuantity": 1.0,
+      "promotionTypeCode": null,
+      "manufacturerArticleNumber": "3936171",
+      "energyLabel": {
+        "value": null,
+        "image": null,
+        "detailImage": null
+      },
+      "cad": {
+        "hasCadLink": false,
+        "blumVariantProductIframeLink": null,
+        "data": {
+          "links": [],
+          "mediaLink": null
+        }
+      },
+      "attributes": [
+        {
+          "name": "Farbe/Oberfläche",
+          "value": " matt"
+        },
+        {
+          "name": "L/B/S Schild",
+          "value": "249/53/12 mm"
+        },
+        {
+          "name": "Lochung",
+          "value": "PZ 78 "
+        },
+        {
+          "name": "Führung",
+          "value": "18 mm"
+        },
+        {
+          "name": "Türstärke",
+          "value": "57 - 62 mm"
+        },
+        {
+          "name": "Schutzeinsatz",
+          "value": "vorgerichtet"
+        },
+        {
+          "name": "Zylinderüberstand",
+          "value": null
+        }
+      ],
+      "priceString": "CHF 118.80 / 1 Garnitur",
+      "buyable": true,
+      "showPrice": false,
+      "displayPriority": null
+    }
+  ]
+}
